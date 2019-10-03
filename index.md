@@ -2,6 +2,7 @@
 
 Set of granny's recipes
 
-- Pizzas (TODO)
+- Pizzas
+    - [base.md](./pizzas/base.md)
 - Suases (TODO)
 - Spreads (TODO)
