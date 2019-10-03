@@ -3,5 +3,5 @@
 Set of granny's recipes
 
 - Pizzas (TODO)
-- Sauces (TODO)
+- Suases (TODO)
 - Spreads (TODO)
